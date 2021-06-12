@@ -20,3 +20,8 @@ Pyshark
 To run the program, create a new project using Pycharm or any python IDE and run the MyWindow.py file. 
 
 To learn more about the algorithm we used, you can read our detailed report also added to the repo. 
+
+Group Members: \
+Samra Fakhar \
+Nuzha Khalid \
+Shanzay Gauhar
